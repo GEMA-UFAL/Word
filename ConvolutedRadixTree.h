@@ -109,7 +109,7 @@ public:
         if(root[prefix[0]])
             suffixes = complete(root[prefix[0]], prefix, 0);
         for(string results : suffixes)
-            cout << "A possible suffix: \""<< results << "\"" << " (" << prefix + results << ")" << endl;
+            cout << "A possible suffix: \""<< results << "\"" << " (" << prefix + results << ")." << endl;
         cout << endl;
     }
 };
