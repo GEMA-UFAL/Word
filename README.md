@@ -8,11 +8,7 @@
 ## Example of use
 
 Type your text and interrupt it by some given option below.
-
-    Auto-complete: Enter $$ + query
-    Find anything: Enter ## + query
-    Justify : Enter @@ + width
-    Exit : Enter "END"
+Running example:
 
     Um Um UM UM     
     $$ Um
