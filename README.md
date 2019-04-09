@@ -15,9 +15,9 @@
             $$ st
   
     Output: 
-            A possible suffix: op (stop)
-            A possible suffix: opping (stopping)
-            A possible suffix: opped (stopped)
+            A possible suffix: op (stop).
+            A possible suffix: opping (stopping).
+            A possible suffix: opped (stopped).
  
 ### 2. Find anything
   
@@ -36,7 +36,7 @@
           ## likes
   
     Output: 
-          Present at word number: 3
+          Present at word number 3.
   
   
 ### 3. Justify
