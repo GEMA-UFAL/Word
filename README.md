@@ -39,7 +39,7 @@
           Present at word number: 3
   
   
-### 3. Justify:
+### 3. Justify
     Input: 
           Tushar Roy Likes To Code
     
