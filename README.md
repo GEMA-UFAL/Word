@@ -15,9 +15,9 @@
             $$ st
   
     Output: 
-            An possible suffix: op (stop)
-            An possible suffix: opping (stopping)
-            An possible suffix: opped (stopped)
+            A possible suffix: op (stop)
+            A possible suffix: opping (stopping)
+            A possible suffix: opped (stopped)
  
 ### 2. Find anything
   
@@ -28,9 +28,9 @@
           ## o
   
     Output:   
-           Present at word number: 1          
-           Present at word number: 4       
-           Present at word number: 5
+           Present at word number 1.         
+           Present at word number 4.      
+           Present at word number 5.
            
     Query: 
           ## likes
