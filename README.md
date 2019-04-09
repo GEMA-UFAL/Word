@@ -15,9 +15,9 @@
             $$ st
   
     Output: 
-            An possible suffix: op
-            An possible suffix: opping
-            An possible suffix: opped
+            An possible suffix: op (stop)
+            An possible suffix: opping (stopping)
+            An possible suffix: opped (stopped)
  
 ### 2. Find anything
   
