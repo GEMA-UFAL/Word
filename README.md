@@ -29,8 +29,11 @@ Running example:
     Present at word number 6.
     Present at word number 7.
     Present at word number 8.
-
-   
+    
+    @@ 100000
+    Um Um UM UM Dois dois dois dois
+    
+    END  
 
 ### 1. Auto-complete ( $$ + query )
     Input: 
