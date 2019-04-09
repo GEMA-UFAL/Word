@@ -9,10 +9,10 @@
 
 ### 1. Auto-complete
     Input: 
-            stop, stopping, stopped
+            stop stopping stopped
   
     Query:             
-            $$st
+            $$ st
   
     Output: 
             An possible suffix: op
@@ -25,19 +25,17 @@
           rodrigo paes likes to code
   
     Query:         
-          ##o
+          ## o
   
-    Outuput:   
-           Present at word number: 1
-           
-           Present at word number: 4
-           
+    Output:   
+           Present at word number: 1          
+           Present at word number: 4       
            Present at word number: 5
            
     Query: 
-          ##likes
+          ## likes
   
-    Outuput: 
+    Output: 
           Present at word number: 3
   
   
@@ -46,9 +44,9 @@
           Tushar Roy Likes To Code
     
     Query:
-          @@10
+          @@ 10
     
-    Outupt: 
+    Output: 
           Tushar
           Roy Likes
           To Code
