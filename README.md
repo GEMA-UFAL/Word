@@ -32,6 +32,10 @@ Running example:
     
     @@ 100000
     Um Um UM UM Dois dois dois dois
+   
+    Tres tres tres
+    @@ 100000
+    Um Um UM UM Dois dois dois dois Tres tres tres
     
     END  
 
