@@ -9,7 +9,32 @@
 
 Type your text and interrupt it by some given option below.
 
-> Um dois tres quatro $$ st cinco seis ## o sete oito @@ 10 
+    Auto-complete: Enter $$ + query
+    Find anything: Enter ## + query
+    Justify : Enter @@ + width
+    Exit : Enter "END"
+
+    Um Um UM UM     
+    $$ Um
+
+    $$ U
+    A possible suffix: "M" (UM).
+    A possible suffix: "m" (Um).
+
+    Dois dois dois dois
+    @@ 10
+    Um Um UM
+    UM Dois
+    dois dois
+    dois
+
+    ## is
+    Present at word number 5.
+    Present at word number 6.
+    Present at word number 7.
+    Present at word number 8.
+
+   
 
 ### 1. Auto-complete ( $$ + query )
     Input: 
